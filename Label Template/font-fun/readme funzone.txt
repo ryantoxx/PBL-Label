@@ -1,1 +1,0 @@
-I literally don't know what the font for "Teapigs" is, so I have basically decided to do a personal font, FunZone 2. It's an improved version of the first one which I made two years ago.
