@@ -1,18 +1,3 @@
-@font-face {
-    font-family: borderFont;
-    src: url(font-fun/Funzone\ 3\ Pro.ttf);
-}
-
-@font-face {
-    font-family: dropFont;
-    src: url(font-boulder/BoulderRough.ttf);
-}
-
-@font-face {
-    font-family: dropbottomFont;
-    src: url(font-kurale/Kurale-Regular.ttf);
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -38,7 +23,7 @@ body {
 /* Paragraphs for first column */
 
 .blend-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: left;
     letter-spacing: 2px;
@@ -50,7 +35,7 @@ body {
 }
 
 .also-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: left;
     letter-spacing: 2px;
@@ -62,7 +47,7 @@ body {
 }
 
 .manufacturer-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: left;
     letter-spacing: 2px;
@@ -74,7 +59,7 @@ body {
 }
 
 .name-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: left;
     letter-spacing: 2px;
@@ -278,7 +263,7 @@ body {
 /* Drop text */
 
 .heading {
-    font-family: dropFont;
+    font-family: 'Skranji', cursive;
     text-align: center;
     color: white;
     letter-spacing: 2px;
@@ -292,7 +277,7 @@ body {
 }
 
 .text {
-    font-family: dropbottomFont;
+    font-family: 'Oswald', sans-serif;
     text-align: right;
     color: white;
     letter-spacing: 5px;
@@ -618,7 +603,7 @@ body {
 /* Paragraphs  for third column */
 
 .recycle-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: right;
     letter-spacing: 2px;
@@ -630,7 +615,7 @@ body {
 }
 
 .ml-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: right;
     letter-spacing: 2px;
@@ -642,7 +627,7 @@ body {
 }
 
 .bottled-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: right;
     letter-spacing: 2px;
@@ -654,7 +639,7 @@ body {
 }
 
 .date-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: right;
     letter-spacing: 2px;
@@ -666,7 +651,7 @@ body {
 }
 
 .best-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: right;
     letter-spacing: 2px;
@@ -678,7 +663,7 @@ body {
 }
 
 .date2-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: right;
     letter-spacing: 2px;
@@ -690,7 +675,7 @@ body {
 }
 
 .batch-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: white;
     text-align: right;
     letter-spacing: 2px;
@@ -702,7 +687,7 @@ body {
 }
 
 .nr-Paragraph {
-    font-family: borderFont;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #046271;
     text-align: right;
     letter-spacing: 2px;
